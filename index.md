@@ -387,6 +387,13 @@ Transaction SQL
 </a>
 <br>
 
+<h3>Database</h3>
+<a href="alek772.github.io/Articles/Restoe Database with .Bak.pdf" target="_blank">
+Restoe Database with .Bak</a>
+<br>
+<a href="alek772.github.io/Articles/Export Import mdf Database file.pdf" target="_blank">
+Export Import mdf Database file</a>
+<br>
 
 
 <h3>ADO.NET</h3>
