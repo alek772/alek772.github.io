@@ -413,6 +413,11 @@ Entity Framework Core EntryState
 </a>
 <br>
 
+<h3>Debug</h3>
+<a href="alek772.github.io/Articles/Debug when out of scope.pdf" target="_blank">
+Debug when out of scope
+</a>
+<br>
 
 
 
