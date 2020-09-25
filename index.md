@@ -64,6 +64,25 @@
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> David Matson, K. Scott Allen, Brad Wilson, Jon Galloway</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2014</td>
   </tr>
+ <tr class="row"> 
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC in Action.pdf" target="_blank">ASP.NET MVC in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Ben Scheirman, and Jimmy Bogard</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Aug,2009</td>
+  </tr>
+ <tr class="row"> 
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC 2 in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC 2 in Action.pdf" target="_blank">ASP.NET MVC 2 in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Ben Scheirman, Jimmy Bogard, Eric Hexter, and Matthew Hinze </td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May,2010</td>
+  </tr>
+<tr class="row"> 
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC 4 in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC 4 in Action.pdf" target="_blank">ASP.NET MVC 4 in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze, and Jeremy Skinner
+Foreword by Phil Haack</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May, 2012</td>
+  </tr>
 </table>
 
 
@@ -192,6 +211,34 @@
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 1, 2013 </td>
   </tr>
 </table>
+
+
+
+<h3>Angular</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Ng-Book The Complete Guide to Angular 9.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Ng-Book The Complete Guide to Angular 9.pdf" target="_blank">Ng-Book The Complete Guide to Angular 9</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Nate Murray, Felipe Coury, Ari Lerner, and Carlos
+Taborda</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> 2020 </td>
+  </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.pdf" target="_blank">Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Adam Freeman</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> June 12, 2020 </td>
+  </tr>
+</table>
+
+
+
 </div>
 
 <br>
