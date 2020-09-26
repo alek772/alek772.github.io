@@ -83,6 +83,15 @@
 Foreword by Phil Haack</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May, 2012</td>
   </tr>
+  <tr class="row"> 
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Fast ASP.NET Websites.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Fast ASP.NET Websites.pdf" target="_blank">Fast ASP.NET Websites</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Dean Alan Hume</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 8, 2013</td>
+  </tr>
+
+
+
 </table>
 
 
@@ -236,6 +245,60 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> June 12, 2020 </td>
   </tr>
 </table>
+
+
+
+<h3>Microservice</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microservices Security in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microservices Security in Action.pdf" target="_blank">Microservices Security in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Nuwan Dias, Prabath Siriwardena</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> August 4, 2020 </td>
+  </tr>
+</table>
+
+
+<h3>API</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Advanced API Security OAuth 2.0 and Beyond.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Advanced API Security OAuth 2.0 and Beyond.pdf" target="_blank">Advanced API Security OAuth 2.0 and Beyond</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Prabath Siriwardena</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">December 16, 2019</td>
+  </tr>
+</table>
+
+
+<h3>Microsoft Azure</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microsoft Azure for Dummies.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microsoft Azure for Dummies.pdf" target="_blank">Microsoft Azure for Dummies</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Timothy L. Warner</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">February 26, 2020</td>
+  </tr>
+</table>
+
+
 
 
 
