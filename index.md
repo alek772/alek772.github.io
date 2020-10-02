@@ -455,6 +455,10 @@ ASP.NET Core Attributes
 ASP NET Core Identity
 </a>
 <br>
+<a href="alek772.github.io/Articles/JWT Tokens.pdf" target="_blank">
+JWT Tokens
+</a>
+<br>
 <a href="alek772.github.io/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
 UnitOfWork and Repository Pattern
 </a>
