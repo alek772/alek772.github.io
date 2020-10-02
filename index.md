@@ -9,6 +9,10 @@
 
 <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1" target="_blank">Docs Microsoft ASP.NET Core</a>
 <br>
+
+
+<a href="https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019" target="_blank">Docs Visual Studio</a>
+<br>
 <a href="https://andrewlock.net/" target="_blank">Andrew Lock</a>
 
 <br>
@@ -179,7 +183,7 @@ Foreword by Phil Haack</td>
   </tr>
     <tr class="row"> 
     <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microservices in .NET Core.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microservices in .NET Core.pdf" target="_blank">Microservices in .NET Core.pdf</a></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microservices in .NET Core.pdf" target="_blank">Microservices in .NET Core</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Horsdal</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">February 3, 2017</td>
   </tr>
