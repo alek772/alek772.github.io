@@ -295,13 +295,52 @@ Taborda</td>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microsoft Azure for Dummies.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microsoft Azure for Dummies.pdf" target="_blank">Microsoft Azure for Dummies</a></td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Timothy L. Warner</td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">February 26, 2020</td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Azure in a Month of Lunches.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Azure in a Month of Lunches.pdf" target="_blank">Learn Azure in a Month of Lunches</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Iain Foulds</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 26, 2018</td>
   </tr>
+     <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Azure in a Month of Lunches Second Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Azure in a Month of Lunches Second Edition.pdf" target="_blank">Learn Azure in a Month of Lunches Second Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Iain Foulds</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 6, 2020</td>
+  </tr>
+
 </table>
 
+
+
+
+<h3>Docker</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action.pdf" target="_blank">Docker in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeff Nickoloff</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2016</td>
+  </tr>
+     <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action Secound Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action Secound Edition.pdf" target="_blank">Docker in Action Secound Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeff Nickoloff and Stephen Kuenzli</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2019</td>
+  </tr>
+      <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Docker in a Month of Lunches.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Docker in a Month of Lunches.pdf" target="_blank">Learn Docker in a Month of Lunches</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Elton Stoneman</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 4, 2020</td>
+  </tr>
+
+
+</table>
 
 
 
@@ -404,6 +443,15 @@ ASP.NET Core Web API Routing
 <br>
 <a href="alek772.github.io/Articles/Richardson Maturity Model and Six Constrains.pdf" target="_blank">
 Richardson Maturity Model and Six Constrains
+</a>
+Data Circular Loop
+<br>
+<a href="alek772.github.io/Articles/Data Circular Loop.pdf" target="_blank">
+Data Circular Loop
+</a>
+<br>
+<a href="alek772.github.io/Articles/Dto.pdf" target="_blank">
+Dto
 </a>
 <br>
 
