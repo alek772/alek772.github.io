@@ -327,8 +327,8 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2016</td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action Secound Edition.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action Secound Edition.pdf" target="_blank">Docker in Action Secound Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action Second Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action Second Edition.pdf" target="_blank">Docker in Action Second Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeff Nickoloff and Stephen Kuenzli</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2019</td>
   </tr>
