@@ -47,6 +47,9 @@
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
 <br>
 
+<a href="https://blog.sixeyed.com" target="_blank">Elton's Blog</a>
+ <p>Elton writes about Docker and Kubernetes at https://blog.sixeyed.com </p>
+ <br>
 
 
 
@@ -444,16 +447,20 @@ ASP.NET Core Web API Routing
 <a href="alek772.github.io/Articles/Richardson Maturity Model and Six Constrains.pdf" target="_blank">
 Richardson Maturity Model and Six Constrains
 </a>
-Data Circular Loop
-<br>
-<a href="alek772.github.io/Articles/Data Circular Loop.pdf" target="_blank">
-Data Circular Loop
-</a>
 <br>
 <a href="alek772.github.io/Articles/Dto.pdf" target="_blank">
 Dto
 </a>
 <br>
+<a href="alek772.github.io/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
+UnitOfWork and Repository Pattern
+</a>
+<br>
+<a href="alek772.github.io/Articles/Repositoty Service Pattern.pdf" target="_blank">
+Repositoty Service Pattern
+</a>
+<br>
+
 
 
 
@@ -505,10 +512,6 @@ ASP NET Core Identity
 <br>
 <a href="alek772.github.io/Articles/JWT Tokens.pdf" target="_blank">
 JWT Tokens
-</a>
-<br>
-<a href="alek772.github.io/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
-UnitOfWork and Repository Pattern
 </a>
 <br>
 <a href="alek772.github.io/Articles/ASP.NET Core IActionResult.pdf" target="_blank">
