@@ -86,8 +86,7 @@
 <tr class="row"> 
       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC 4 in Action.jpg" ></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC 4 in Action.pdf" target="_blank">ASP.NET MVC 4 in Action</a></td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze, and Jeremy Skinner
-Foreword by Phil Haack</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze, and Jeremy Skinner</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May, 2012</td>
   </tr>
   <tr class="row"> 
