@@ -8,11 +8,9 @@
 <h1>Links</h1>
 <h4>Docs</h4>
 <a href="https://docs.microsoft.com/en-us/" target="_blank">Microsoft Docs</a>
-<br>
 <p>
 docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
 </p>
-<br>
 <a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">Entity Framework Core</a>
 <br>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1" target="_blank">Docs Microsoft ASP.NET Core</a>
