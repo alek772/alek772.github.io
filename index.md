@@ -6,10 +6,8 @@
     
 
 <h1>Links</h1>
-
-
-
-<h2>Docs</h2>
+<br>
+<h4>Docs</h4>
 <a href="https://docs.microsoft.com/en-us/" target="_blank">Microsoft Docs</a>
 <br>
 <p>
@@ -28,11 +26,10 @@ docs.microsoft.com is the home for Microsoft documentation for end users, develo
 <br>
 <p>.NET Framework 4.8 is the latest version of .NET Framework </p>
 <p>Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
-<br>
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
 <br>
 
-<h2>People</h2>
+<h4>People</h4>
 <a href="https://andrewlock.net/" target="_blank">Andrew Lock</a>
 <br>
 <a href="https://wildermuth.com/" target="_blank">Shawn Wildermuth</a>
@@ -49,13 +46,12 @@ docs.microsoft.com is the home for Microsoft documentation for end users, develo
 <p>Web Development And .Net Articles, Tutorials, Discussions</p>
 <a href="https://blog.sixeyed.com" target="_blank">Elton's Blog</a>
  <p>Elton writes about Docker and Kubernetes at https://blog.sixeyed.com </p>
- <br>
 <a href="https://dotnetplaybook.com/" target="_blank">LES JACKSON</a>
  <p>Solutions to problems I wanted to solve.Things I wanted to learn,Or just my own personal thoughts….All within the bounded-context of the Microsoft .Net Framework </p>
- <br>
 
 
-<h2>Sites & Tutorials</h2>
+
+<h4>Sites & Tutorials</h4>
 <a href="https://www.learnentityframeworkcore.com/" target="_blank">Learn Entity Framework Core</a>
 <br>
 <a href="https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx" target="_blank">entity framework tutorial</a>
