@@ -598,6 +598,21 @@ Export Import mdf Database file</a>
 <h3>Angular</h3>
 <a href="alek772.github.io/Articles/Angular Learning Path 2020" target="_blank">Angular Learning Path 2020</a>
 <br>
+<a href="alek772.github.io/Articles/Template Reference Variable" target="_blank">Template Reference Variable</a>
+<br>
+<a href="alek772.github.io/Articles/Service-Component Communication" target="_blank">Service-Component Communication</a>
+<br>
+<a href="alek772.github.io/Articles/Angular" target="_blank">Angular</a>
+<br>
+<a href="alek772.github.io/Articles/Angular Routing" target="_blank">Angular Routing</a>
+<br>
+<a href="alek772.github.io/Articles/Angular Module" target="_blank">Angular Module</a>
+<br>
+<a href="alek772.github.io/Articles/Angular Errors" target="_blank">Angular Errors</a>
+<br>
+
+
+
 
 
 
