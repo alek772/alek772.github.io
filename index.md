@@ -6,7 +6,6 @@
     
 
 <h1>Links</h1>
-<br>
 <h4>Docs</h4>
 <a href="https://docs.microsoft.com/en-us/" target="_blank">Microsoft Docs</a>
 <br>
