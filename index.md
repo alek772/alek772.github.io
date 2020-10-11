@@ -7,23 +7,34 @@
 
 <h1>Links</h1>
 
+
+
+<h2>Docs</h2>
+<a href="https://docs.microsoft.com/en-us/" target="_blank">Microsoft Docs</a>
+<br>
+<p>
+docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
+</p>
+<br>
+<a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">Entity Framework Core</a>
+<br>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1" target="_blank">Docs Microsoft ASP.NET Core</a>
-<br>
-
-
-<a href="https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019" target="_blank">Docs Visual Studio</a>
-<br>
-<a href="https://andrewlock.net/" target="_blank">Andrew Lock</a>
-
 <br>
 <a href="https://devblogs.microsoft.com/dotnet/" target="_blank">.NET Blog</a>
 <br>
-
-<a href="https://www.learnentityframeworkcore.com/" target="_blank">Learn Entity Framework Core</a>
+<a href="https://docs.microsoft.com/en-us/visualstudio/get-started/visual-studio-ide?view=vs-2019" target="_blank">Docs Visual Studio</a>
 <br>
-<a href="https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx" target="_blank">entity framework tutorial</a>
+<a href="https://dotnet.microsoft.com/download/dotnet-core" target="_blank">.Net Core Versions</a>
+<br>
+<p>.NET Framework 4.8 is the latest version of .NET Framework </p>
+<p>Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
+<br>
+<a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
 <br>
 
+<h2>People</h2>
+<a href="https://andrewlock.net/" target="_blank">Andrew Lock</a>
+<br>
 <a href="https://wildermuth.com/" target="_blank">Shawn Wildermuth</a>
 <br>
 <a href="https://www.kevindockx.com/" target="_blank">Kevin Dockx</a>
@@ -34,22 +45,26 @@
 <br>
 <a href="https://blog.oneunicorn.com/" target="_blank">1unicorn2</a>
 <p>This is a blog about software development, Entity Framework, .NET Core, C#, and random other things.</p>
-
 <a href="https://hamidmosalla.com/" target="_blank">Hamid Mosalla</a>
 <p>Web Development And .Net Articles, Tutorials, Discussions</p>
-
-
-
-<a href="https://dotnet.microsoft.com/download/dotnet-core" target="_blank">.Net Core Versions</a>
-<br>
-<p>.NET Framework 4.8 is the latest version of .NET Framework </p>
-<p>29 November 2018	ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
-<a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
-<br>
-
 <a href="https://blog.sixeyed.com" target="_blank">Elton's Blog</a>
  <p>Elton writes about Docker and Kubernetes at https://blog.sixeyed.com </p>
  <br>
+<a href="https://dotnetplaybook.com/" target="_blank">LES JACKSON</a>
+ <p>Solutions to problems I wanted to solve.Things I wanted to learn,Or just my own personal thoughts….All within the bounded-context of the Microsoft .Net Framework </p>
+ <br>
+
+
+<h2>Sites & Tutorials</h2>
+<a href="https://www.learnentityframeworkcore.com/" target="_blank">Learn Entity Framework Core</a>
+<br>
+<a href="https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx" target="_blank">entity framework tutorial</a>
+<br>
+<a href="https://dotnettutorials.net/" target="_blank">.Net(and much more) & Angular </a>
+<br>
+
+
+
 
 
 
