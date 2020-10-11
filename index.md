@@ -247,7 +247,19 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
-   <tr class="row">    
+  <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Angular in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Angular in Action.pdf" target="_blank">Angular in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeremy Wilken</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 30, 2018 </td>
+  </tr>
+  <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Angular 6 - 3th Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Angular 6 - 3th Edition.pdf" target="_blank">Pro Angular 6 - 3th Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman </td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> October 10, 2018 </td>
+  </tr>
+     <tr class="row">    
        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Ng-Book The Complete Guide to Angular 9.jpg"></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Ng-Book The Complete Guide to Angular 9.pdf" target="_blank">Ng-Book The Complete Guide to Angular 9</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Nate Murray, Felipe Coury, Ari Lerner, and Carlos
@@ -582,6 +594,11 @@ Export Import mdf Database file</a>
 <h3>ADO.NET</h3>
 <a href="alek772.github.io/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
 <br>
+
+<h3>Angular</h3>
+<a href="alek772.github.io/Articles/Angular Learning Path 2020" target="_blank">Angular Learning Path 2020</a>
+<br>
+
 
 
 
