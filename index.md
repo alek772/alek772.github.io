@@ -8,9 +8,9 @@
 <h1>Links</h1>
 <h4>Docs</h4>
 <a href="https://docs.microsoft.com/en-us/" target="_blank">Microsoft Docs</a>
-<div>
+<p>
 docs.microsoft.com is the home for Microsoft documentation for end users, developers, and IT professionals. Check out our quickstarts, tutorials, API reference, and code examples.
-</div>
+</p>
 <a href="https://docs.microsoft.com/en-us/ef/core/" target="_blank">Entity Framework Core</a>
 <br>
 <a href="https://docs.microsoft.com/en-us/aspnet/core/introduction-to-aspnet-core?view=aspnetcore-3.1" target="_blank">Docs Microsoft ASP.NET Core</a>
@@ -21,8 +21,10 @@ docs.microsoft.com is the home for Microsoft documentation for end users, develo
 <br>
 <a href="https://dotnet.microsoft.com/download/dotnet-core" target="_blank">.Net Core Versions</a>
 <br>
-<p>.NET Framework 4.8 is the latest version of .NET Framework </p>
-<p>Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
+<p>.NET Framework 4.8 is the latest version of .NET Framework 
+<br>
+Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
+
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
 <br>
 
