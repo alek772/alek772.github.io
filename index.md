@@ -46,7 +46,7 @@ docs.microsoft.com is the home for Microsoft documentation for end users, develo
 <p>Web Development And .Net Articles, Tutorials, Discussions</p>
 <a href="https://blog.sixeyed.com" target="_blank">Elton's Blog</a>
  <p>Elton writes about Docker and Kubernetes at https://blog.sixeyed.com </p>
-<a href="https://dotnetplaybook.com/" target="_blank">LES JACKSON</a>
+<a href="https://dotnetplaybook.com/" target="_blank">Les Jackson</a>
  <p>Solutions to problems I wanted to solve.Things I wanted to learn,Or just my own personal thoughts….All within the bounded-context of the Microsoft .Net Framework </p>
 
 
