@@ -595,6 +595,10 @@ Export Import mdf Database file</a>
 <a href="alek772.github.io/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
 <br>
 
+<h3>Html</h3>
+<a href="alek772.github.io/Articles/Html.pdf" target="_blank">Html</a>
+<br>
+
 <h3>Angular</h3>
 <a href="alek772.github.io/Articles/Angular Learning Path 2020.pdf" target="_blank">Angular Learning Path 2020</a>
 <br>
