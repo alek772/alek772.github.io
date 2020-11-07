@@ -50,6 +50,7 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 
 
 
+
 <h4>Sites & Tutorials</h4>
 <a href="https://www.learnentityframeworkcore.com/" target="_blank">Learn Entity Framework Core</a>
 <br>
