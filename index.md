@@ -313,6 +313,14 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Prabath Siriwardena</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">December 16, 2019</td>
   </tr>
+     <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/The Complete ASP.NET Core 3 API Tutorial.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/The Complete ASP.NET Core 3 API Tutorial.pdf" target="_blank">The Complete ASP.NET Core 3 API Tutorial</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Les Jackson</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 26, 2020</td>
+  </tr>
+
+
 </table>
 
 
