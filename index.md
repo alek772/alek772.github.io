@@ -242,6 +242,14 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Svetlin Nakov and Veselin Kolev</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 1, 2013 </td>
   </tr>
+     <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Functional Programming in Csharp.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Functional Programming in Csharp.pdf" target="_blank">Functional Programming in C#</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Enrico Buonanno</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 17, 2017</td>
+  </tr>
+
+
 </table>
 
 
