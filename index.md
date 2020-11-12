@@ -39,6 +39,8 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 <br>
 <a href="https://thedatafarm.com/blog/" target="_blank">Julie Lerman blogs</a>
 <br>
+<a href="https://enterprisecraftsmanship.com/" target="_blank">Vladimir Khorikov</a>
+<br>
 <a href="https://blog.oneunicorn.com/" target="_blank">1unicorn2</a>
 <p>This is a blog about software development, Entity Framework, .NET Core, C#, and random other things.</p>
 <a href="https://hamidmosalla.com/" target="_blank">Hamid Mosalla</a>
@@ -252,6 +254,24 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 
 </table>
 
+
+<h3>Unit Testing</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Unit Testing Principles, Practices, and Patterns.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Unit Testing Principles, Practices, and Patterns.pdf" target="_blank">Unit Testing Principles, Practices, and Patterns</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Vladimir Khorikov</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">January 14, 2020 </td>
+  </tr>
+ 
+
+</table>
 
 
 <h3>Angular</h3>
