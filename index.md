@@ -589,8 +589,10 @@ ASP.NET Core IActionResult
 Serilog
 </a>
 <br>
-
-
+<a href="alek772.github.io/Articles/asp.net core errors.pdf" target="_blank">
+asp.net core errors
+</a>
+<br>
 
 <h3>Entity Framework Core</h3>
 <a href="alek772.github.io/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
