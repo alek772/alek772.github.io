@@ -613,6 +613,11 @@ Debug when out of scope
 
 
 <h3>SQL</h3>
+<a href="alek772.github.io/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">
+Microsoft sqlserver cheet sheet
+</a>
+<br>
+
 <a href="alek772.github.io/Articles/Cascade on Foreign keys.pdf" target="_blank">
 Cascade on Foreign keys
 </a>
