@@ -35,6 +35,8 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 <br>
 <a href="https://www.kevindockx.com/" target="_blank">Kevin Dockx</a>
 <br>
+<a href="https://blogs.msmvps.com/deborahk/" target="_blank">Deborah Kurata</a>
+<br>
 <a href="https://www.codemag.com/People/Bio/Julie.Lerman" target="_blank">Julie Lerman articles </a>
 <br>
 <a href="https://thedatafarm.com/blog/" target="_blank">Julie Lerman blogs</a>
@@ -668,7 +670,12 @@ Export Import mdf Database file</a>
 <a href="/Articles/Angular Errors.pdf" target="_blank">Angular Errors</a>
 <br>
 
-
+	
+<h3>TSConfig</h3>
+<a href="https://www.typescriptlang.org/tsconfig" target="_blank">TSConfig Reference</a>
+<br>
+<a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html" target="_blank">TSConfig Options</a>
+<br>
 
 
 
