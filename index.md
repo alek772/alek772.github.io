@@ -79,32 +79,32 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
  </tr> 
   <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Professional ASP.NET MVC 5.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Professional ASP.NET MVC 5.pdf" target="_blank">Professional ASP.NET MVC 5</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Professional ASP.NET MVC 5.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Professional ASP.NET MVC 5.pdf" target="_blank">Professional ASP.NET MVC 5</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> David Matson, K. Scott Allen, Brad Wilson, Jon Galloway</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2014</td>
   </tr>
  <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC in Action.pdf" target="_blank">ASP.NET MVC in Action</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET MVC in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET MVC in Action.pdf" target="_blank">ASP.NET MVC in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Ben Scheirman, and Jimmy Bogard</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Aug,2009</td>
   </tr>
  <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC 2 in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC 2 in Action.pdf" target="_blank">ASP.NET MVC 2 in Action</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET MVC 2 in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET MVC 2 in Action.pdf" target="_blank">ASP.NET MVC 2 in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Ben Scheirman, Jimmy Bogard, Eric Hexter, and Matthew Hinze </td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May,2010</td>
   </tr>
 <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET MVC 4 in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET MVC 4 in Action.pdf" target="_blank">ASP.NET MVC 4 in Action</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET MVC 4 in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET MVC 4 in Action.pdf" target="_blank">ASP.NET MVC 4 in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze, and Jeremy Skinner</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May, 2012</td> 
   </tr>
   <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Fast ASP.NET Websites.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Fast ASP.NET Websites.pdf" target="_blank">Fast ASP.NET Websites</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Fast ASP.NET Websites.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Fast ASP.NET Websites.pdf" target="_blank">Fast ASP.NET Websites</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Dean Alan Hume</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 8, 2013</td>
   </tr>
@@ -125,62 +125,62 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
   </tr>
   <tr class="row"> 
-   <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/ASP.NET Core in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/ASP.NET Core in Action.pdf" target="_blank">ASP.NET Core in Action</a></td>
+   <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET Core in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET Core in Action.pdf" target="_blank">ASP.NET Core in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Lock</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 30, 2018</td>
   </tr>
      <tr class="row"> 
-     <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro ASP.NET Core MVC - 6th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro ASP.NET Core MVC - 6th Edition.pdf" target="_blank">Pro ASP.NET Core MVC - 6th Edition</a></td>
+     <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro ASP.NET Core MVC - 6th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro ASP.NET Core MVC - 6th Edition.pdf" target="_blank">Pro ASP.NET Core MVC - 6th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 15, 2016</td>
   </tr>
     <tr class="row"> 
-        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro ASP.NET Core MVC 2 - 7th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro ASP.NET Core MVC 2 - 7th Edition.pdf" target="_blank">Pro ASP.NET Core MVC 2 - 7th Edition</a></td>
+        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro ASP.NET Core MVC 2 - 7th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro ASP.NET Core MVC 2 - 7th Edition.pdf" target="_blank">Pro ASP.NET Core MVC 2 - 7th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 24, 2017</td>
   </tr>
     <tr class="row"> 
-        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro ASP.NET Core 3 - 8th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro ASP.NET Core 3 - 8th Edition.pdf" target="_blank">Pro ASP.NET Core 3 - 8th Edition</a></td>
+        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro ASP.NET Core 3 - 8th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro ASP.NET Core 3 - 8th Edition.pdf" target="_blank">Pro ASP.NET Core 3 - 8th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">June 6, 2020</td>
   </tr>
     <tr class="row"> 
-        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Architecting Modern Web Applications with ASP.NET Core and Azure.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Architecting Modern Web Applications with ASP.NET Core and Azure.pdf" target="_blank">Architecting Modern Web Applications with ASP.NET Core and Azure</a></td>
+        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Architecting Modern Web Applications with ASP.NET Core and Azure.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Architecting Modern Web Applications with ASP.NET Core and Azure.pdf" target="_blank">Architecting Modern Web Applications with ASP.NET Core and Azure</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Microsoft Developer Division, .NET, and Visual Studio product teams</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 25, 2020</td>
   </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2ol"><img width="80" height="120" src="alek772.github.io/Books/images/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.pdf" target="_blank">C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2ol"><img width="80" height="120" src="/Books/images/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.pdf" target="_blank">C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Mark Price</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 31, 2019</td>
   </tr>
       <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.pdf" target="_blank">Essential Angular for ASP.NET Core MVC 3 - 2th Edition</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.pdf" target="_blank">Essential Angular for ASP.NET Core MVC 3 - 2th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 23, 2019</td>
   </tr>
      <tr class="row"> 
-         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Csharp 7 With .NET and .NET Core - 8th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Csharp 7 With .NET and .NET Core - 8th Edition.pdf" target="_blank">Pro C# 7 With .NET and .NET Core - 8th Edition</a></td>
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Csharp 7 With .NET and .NET Core - 8th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Csharp 7 With .NET and .NET Core - 8th Edition.pdf" target="_blank">Pro C# 7 With .NET and .NET Core - 8th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Troelsen and Philip Japikse</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">November 21, 2017</td>
   </tr>
    <tr class="row"> 
-         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Csharp 8 with .NET Core 3 - 9th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Csharp 8 with .NET Core 3 - 9th Edition.pdf" target="_blank">Pro C# 8 with .NET Core 3 - 9th Edition</a></td>
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Csharp 8 with .NET Core 3 - 9th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Csharp 8 with .NET Core 3 - 9th Edition.pdf" target="_blank">Pro C# 8 with .NET Core 3 - 9th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Troelsen and Philip Japikse</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 16, 2020</td>
   </tr>
      <tr class="row"> 
-         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Professional Csharp 7 and .NET Core 2.0.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Professional Csharp 7 and .NET Core 2.0.pdf" target="_blank">Professional C# 7 and .NET Core 2.0</a></td>
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Professional Csharp 7 and .NET Core 2.0.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Professional Csharp 7 and .NET Core 2.0.pdf" target="_blank">Professional C# 7 and .NET Core 2.0</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Nagel</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 21, 2018</td>
   </tr>
@@ -197,14 +197,14 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
     </tr>     
     <tr class="row">   
-    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/dot NET Core in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/dot NET Core in Action.pdf" target="_blank">.NET Core in Action</a></td>
+    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/dot NET Core in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/dot NET Core in Action.pdf" target="_blank">.NET Core in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Dustin Metzgar</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 3, 2018</td>
   </tr>
     <tr class="row"> 
-    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microservices in .NET Core.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microservices in .NET Core.pdf" target="_blank">Microservices in .NET Core</a></td>
+    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Microservices in .NET Core.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Microservices in .NET Core.pdf" target="_blank">Microservices in .NET Core</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Horsdal</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">February 3, 2017</td>
   </tr>
@@ -221,8 +221,8 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
  </tr> 
   <tr class="row"> 
-      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Entity Framework Core in Action.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Entity Framework Core in Action.pdf" target="_blank">Entity Framework Core in Action</a></td>
+      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Entity Framework Core in Action.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Entity Framework Core in Action.pdf" target="_blank">Entity Framework Core in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jon P Smith</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 4, 2018</td>
   </tr>
@@ -239,14 +239,14 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Fundamentals of Computer Programming with CSharp The Bulgarian Csharp Programming Book.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Fundamentals of Computer Programming with CSharp The Bulgarian Csharp Programming Book.pdf" target="_blank">Fundamentals of Computer Programming with CSharp The Bulgarian C# Programming Book</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Fundamentals of Computer Programming with CSharp The Bulgarian Csharp Programming Book.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Fundamentals of Computer Programming with CSharp The Bulgarian Csharp Programming Book.pdf" target="_blank">Fundamentals of Computer Programming with CSharp The Bulgarian C# Programming Book</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Svetlin Nakov and Veselin Kolev</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 1, 2013 </td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Functional Programming in Csharp.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Functional Programming in Csharp.pdf" target="_blank">Functional Programming in C#</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Functional Programming in Csharp.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Functional Programming in Csharp.pdf" target="_blank">Functional Programming in C#</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Enrico Buonanno</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 17, 2017</td>
   </tr>
@@ -264,8 +264,8 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Unit Testing Principles, Practices, and Patterns.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Unit Testing Principles, Practices, and Patterns.pdf" target="_blank">Unit Testing Principles, Practices, and Patterns</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Unit Testing Principles, Practices, and Patterns.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Unit Testing Principles, Practices, and Patterns.pdf" target="_blank">Unit Testing Principles, Practices, and Patterns</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Vladimir Khorikov</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">January 14, 2020 </td>
   </tr>
@@ -283,27 +283,27 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
   <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Angular in Action.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Angular in Action.pdf" target="_blank">Angular in Action</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Angular in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Angular in Action.pdf" target="_blank">Angular in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeremy Wilken</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 30, 2018 </td>
   </tr>
   <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Angular 6 - 3th Edition.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Angular 6 - 3th Edition.pdf" target="_blank">Pro Angular 6 - 3th Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Angular 6 - 3th Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Angular 6 - 3th Edition.pdf" target="_blank">Pro Angular 6 - 3th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman </td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> October 10, 2018 </td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Ng-Book The Complete Guide to Angular 9.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Ng-Book The Complete Guide to Angular 9.pdf" target="_blank">Ng-Book The Complete Guide to Angular 9</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Ng-Book The Complete Guide to Angular 9.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Ng-Book The Complete Guide to Angular 9.pdf" target="_blank">Ng-Book The Complete Guide to Angular 9</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Nate Murray, Felipe Coury, Ari Lerner, and Carlos
 Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> 2020 </td>
   </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.pdf" target="_blank">Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.pdf" target="_blank">Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> June 12, 2020 </td>
   </tr>
@@ -320,8 +320,8 @@ Taborda</td>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Microservices Security in Action.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Microservices Security in Action.pdf" target="_blank">Microservices Security in Action</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Microservices Security in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Microservices Security in Action.pdf" target="_blank">Microservices Security in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Nuwan Dias, Prabath Siriwardena</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> August 4, 2020 </td>
   </tr>
@@ -337,14 +337,14 @@ Taborda</td>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Advanced API Security OAuth 2.0 and Beyond.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Advanced API Security OAuth 2.0 and Beyond.pdf" target="_blank">Advanced API Security OAuth 2.0 and Beyond</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Advanced API Security OAuth 2.0 and Beyond.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Advanced API Security OAuth 2.0 and Beyond.pdf" target="_blank">Advanced API Security OAuth 2.0 and Beyond</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Prabath Siriwardena</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">December 16, 2019</td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/The Complete ASP.NET Core 3 API Tutorial.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/The Complete ASP.NET Core 3 API Tutorial.pdf" target="_blank">The Complete ASP.NET Core 3 API Tutorial</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/The Complete ASP.NET Core 3 API Tutorial.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/The Complete ASP.NET Core 3 API Tutorial.pdf" target="_blank">The Complete ASP.NET Core 3 API Tutorial</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Les Jackson</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 26, 2020</td>
   </tr>
@@ -362,14 +362,14 @@ Taborda</td>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Azure in a Month of Lunches.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Azure in a Month of Lunches.pdf" target="_blank">Learn Azure in a Month of Lunches</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Learn Azure in a Month of Lunches.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Learn Azure in a Month of Lunches.pdf" target="_blank">Learn Azure in a Month of Lunches</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Iain Foulds</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 26, 2018</td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Azure in a Month of Lunches Second Edition.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Azure in a Month of Lunches Second Edition.pdf" target="_blank">Learn Azure in a Month of Lunches Second Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Learn Azure in a Month of Lunches Second Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Learn Azure in a Month of Lunches Second Edition.pdf" target="_blank">Learn Azure in a Month of Lunches Second Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Iain Foulds</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 6, 2020</td>
   </tr>
@@ -388,20 +388,20 @@ Taborda</td>
     <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
    </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action.pdf" target="_blank">Docker in Action</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Docker in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Docker in Action.pdf" target="_blank">Docker in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeff Nickoloff</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2016</td>
   </tr>
      <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Docker in Action Second Edition.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Docker in Action Second Edition.pdf" target="_blank">Docker in Action Second Edition</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Docker in Action Second Edition.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Docker in Action Second Edition.pdf" target="_blank">Docker in Action Second Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Jeff Nickoloff and Stephen Kuenzli</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">2019</td>
   </tr>
       <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="alek772.github.io/Books/images/Learn Docker in a Month of Lunches.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="alek772.github.io/Books/Learn Docker in a Month of Lunches.pdf" target="_blank">Learn Docker in a Month of Lunches</a></td>
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Learn Docker in a Month of Lunches.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Learn Docker in a Month of Lunches.pdf" target="_blank">Learn Docker in a Month of Lunches</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Elton Stoneman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 4, 2020</td>
   </tr>
@@ -419,22 +419,22 @@ Taborda</td>
 <h1>Articles</h1>
 
 <h3>Visual Studio Code</h3>
-<a href="alek772.github.io/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
+<a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
 
 <h3>Common</h3>
-<a href="alek772.github.io/Articles/Async vs Sync Api.pdf" target="_blank">
+<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
 Async vs Sync Api
 </a>
 <br>
-<a href="alek772.github.io/Articles/IEnumerable and IEnumerator.pdf" target="_blank">
+<a href="/Articles/IEnumerable and IEnumerator.pdf" target="_blank">
 IEnumerable and IEnumerator
 </a>
 <br>
-<a href="alek772.github.io/Articles/Json Serilizer.pdf" target="_blank">
+<a href="/Articles/Json Serilizer.pdf" target="_blank">
 Json Serilizer
 </a>
 <br>
-<a href="alek772.github.io/Articles/Library Manager Libman.pdf" target="_blank">
+<a href="/Articles/Library Manager Libman.pdf" target="_blank">
 Library Manager Libman
 </a>
 <br>
@@ -444,86 +444,86 @@ Library Manager Libman
 
 
 <h3>C#</h3>
-<a href="alek772.github.io/Articles/Csharp.pdf" target="_blank">C#</a>
+<a href="/Articles/Csharp.pdf" target="_blank">C#</a>
 <br>
-<a href="alek772.github.io/Articles/Windows Process.pdf" target="_blank">Windows Process</a>
+<a href="/Articles/Windows Process.pdf" target="_blank">Windows Process</a>
 <br>
 
 
 <h3>ASP.NET Web API</h3>
-<a href="alek772.github.io/Articles/ASP.NET Web API Parameter Binding.pdf" target="_blank">
+<a href="/Articles/ASP.NET Web API Parameter Binding.pdf" target="_blank">
 ASP.NET Web API Parameter Binding
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Web API Return Types.pdf" target="_blank">
+<a href="/Articles/ASP.NET Web API Return Types.pdf" target="_blank">
 ASP.NET Web API Return Types
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Web API Routing.pdf" target="_blank">
+<a href="/Articles/ASP.NET Web API Routing.pdf" target="_blank">
 ASP.NET Web API Routing
 </a>
 <br>
 
 <h3>ASP.NET MVC</h3>
-<a href="alek772.github.io/Articles/ASP.NET MVC Model Binding.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC Model Binding.pdf" target="_blank">
 ASP.NET MVC Model Binding
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET MVC HtmlHelpers.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC HtmlHelpers.pdf" target="_blank">
 ASP.NET MVC HtmlHelpers
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET MVC Return Types.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC Return Types.pdf" target="_blank">
 ASP.NET MVC Return Types
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET MVC Roles.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC Roles.pdf" target="_blank">
 ASP.NET MVC Roles
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET MVC Routing.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC Routing.pdf" target="_blank">
 ASP.NET MVC Routing
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET MVC Validation.pdf" target="_blank">
+<a href="/Articles/ASP.NET MVC Validation.pdf" target="_blank">
 ASP.NET MVC Validation
 </a>
 <br>
 
 
 <h3>ASP.NET Core Web API</h3>
-<a href="alek772.github.io/Articles/ASP.NET Core  Web API Return Types.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core  Web API Return Types.pdf" target="_blank">
 ASP.NET Core  Web API Return Types</a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Web API Binding Sources.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Web API Binding Sources.pdf" target="_blank">
 ASP.NET Core Web API Binding Sources 
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Web API ApiController Attribute.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Web API ApiController Attribute.pdf" target="_blank">
 ASP.NET Core Web API ApiController Attribute
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Web API Formatters.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Web API Formatters.pdf" target="_blank">
 ASP.NET Core Web API Formatters
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Web API Routing.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Web API Routing.pdf" target="_blank">
 ASP.NET Core Web API Routing
 </a>
 <br>
-<a href="alek772.github.io/Articles/Richardson Maturity Model and Six Constrains.pdf" target="_blank">
+<a href="/Articles/Richardson Maturity Model and Six Constrains.pdf" target="_blank">
 Richardson Maturity Model and Six Constrains
 </a>
 <br>
-<a href="alek772.github.io/Articles/Dto.pdf" target="_blank">
+<a href="/Articles/Dto.pdf" target="_blank">
 Dto
 </a>
 <br>
-<a href="alek772.github.io/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
+<a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
 UnitOfWork and Repository Pattern
 </a>
 <br>
-<a href="alek772.github.io/Articles/Repositoty Service Pattern.pdf" target="_blank">
+<a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">
 Repositoty Service Pattern
 </a>
 <br>
@@ -534,78 +534,78 @@ Repositoty Service Pattern
 
 
 <h3>ASP.NET Core MVC</h3>
-<a href="alek772.github.io/Articles/ASP.NET Core MVC Binding Sources.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core MVC Binding Sources.pdf" target="_blank">
 ASP.NET Core MVC Binding Sources</a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core MVC Return Types.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core MVC Return Types.pdf" target="_blank">
 ASP.NET Core MVC Return Types
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Razor View.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Razor View.pdf" target="_blank">
 ASP.NET Core Razor View
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Tag Helpers.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Tag Helpers.pdf" target="_blank">
 ASP.NET Core Tag Helpers
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Logging.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Logging.pdf" target="_blank">
 ASP.NET Core Logging
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core ConfigureServices and Configure.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core ConfigureServices and Configure.pdf" target="_blank">
 ASP.NET Core ConfigureServices and Configure
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Configure Host Builder.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Configure Host Builder.pdf" target="_blank">
 ASP.NET Core Configure Host Builder
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Captured Dependency.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Captured Dependency.pdf" target="_blank">
 ASP.NET Core Captured Dependency
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Auto Mapper.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Auto Mapper.pdf" target="_blank">
 ASP.NET Core Auto Mapper
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core Attributes.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Attributes.pdf" target="_blank">
 ASP.NET Core Attributes
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP NET Core Identity.pdf" target="_blank">
+<a href="/Articles/ASP NET Core Identity.pdf" target="_blank">
 ASP NET Core Identity
 </a>
 <br>
-<a href="alek772.github.io/Articles/JWT Tokens.pdf" target="_blank">
+<a href="/Articles/JWT Tokens.pdf" target="_blank">
 JWT Tokens
 </a>
 <br>
-<a href="alek772.github.io/Articles/ASP.NET Core IActionResult.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core IActionResult.pdf" target="_blank">
 ASP.NET Core IActionResult
 </a>
 <br>
-<a href="alek772.github.io/Articles/Serilog.pdf" target="_blank">
+<a href="/Articles/Serilog.pdf" target="_blank">
 Serilog
 </a>
 <br>
-<a href="alek772.github.io/Articles/asp.net core errors.pdf" target="_blank">
+<a href="/Articles/asp.net core errors.pdf" target="_blank">
 asp.net core errors
 </a>
 <br>
 
 <h3>Entity Framework Core</h3>
-<a href="alek772.github.io/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
+<a href="/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
 ASP.NET Core Entity Framework Core
 </a>
 <br>
-<a href="alek772.github.io/Articles/Entity Framework Core EntryState.pdf" target="_blank">
+<a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">
 Entity Framework Core EntryState
 </a>
 <br>
 
 <h3>Debug</h3>
-<a href="alek772.github.io/Articles/Debug when out of scope.pdf" target="_blank">
+<a href="/Articles/Debug when out of scope.pdf" target="_blank">
 Debug when out of scope
 </a>
 <br>
@@ -613,59 +613,59 @@ Debug when out of scope
 
 
 <h3>SQL</h3>
-<a href="alek772.github.io/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">
+<a href="/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">
 Microsoft sqlserver cheet sheet
 </a>
 <br>
 
-<a href="alek772.github.io/Articles/Cascade on Foreign keys.pdf" target="_blank">
+<a href="/Articles/Cascade on Foreign keys.pdf" target="_blank">
 Cascade on Foreign keys
 </a>
 <br>
-<a href="alek772.github.io/Articles/SQL order of execution.pdf" target="_blank">
+<a href="/Articles/SQL order of execution.pdf" target="_blank">
 SQL order of execution
 </a>
 <br>
-<a href="alek772.github.io/Articles/SQL Relationships.pdf" target="_blank">
+<a href="/Articles/SQL Relationships.pdf" target="_blank">
 SQL Relationships
 </a>
 <br>
-<a href="alek772.github.io/Articles/Transaction SQL.pdf" target="_blank">
+<a href="/Articles/Transaction SQL.pdf" target="_blank">
 Transaction SQL
 </a>
 <br>
 
 <h3>Database</h3>
-<a href="alek772.github.io/Articles/Restoe Database with .Bak.pdf" target="_blank">
+<a href="/Articles/Restoe Database with .Bak.pdf" target="_blank">
 Restoe Database with .Bak</a>
 <br>
-<a href="alek772.github.io/Articles/Export Import mdf Database file.pdf" target="_blank">
+<a href="/Articles/Export Import mdf Database file.pdf" target="_blank">
 Export Import mdf Database file</a>
 <br>
 
 
 <h3>ADO.NET</h3>
-<a href="alek772.github.io/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
+<a href="/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
 <br>
 
 <h3>Html</h3>
-<a href="alek772.github.io/Articles/Html.pdf" target="_blank">Html</a>
+<a href="/Articles/Html.pdf" target="_blank">Html</a>
 <br>
 
 <h3>Angular</h3>
-<a href="alek772.github.io/Articles/Angular Learning Path 2020.pdf" target="_blank">Angular Learning Path 2020</a>
+<a href="/Articles/Angular Learning Path 2020.pdf" target="_blank">Angular Learning Path 2020</a>
 <br>
-<a href="alek772.github.io/Articles/Template Reference Variable.pdf" target="_blank">Template Reference Variable</a>
+<a href="/Articles/Template Reference Variable.pdf" target="_blank">Template Reference Variable</a>
 <br>
-<a href="alek772.github.io/Articles/Service-Component Communication.pdf" target="_blank">Service-Component Communication</a>
+<a href="/Articles/Service-Component Communication.pdf" target="_blank">Service-Component Communication</a>
 <br>
-<a href="alek772.github.io/Articles/Angular.pdf" target="_blank">Angular</a>
+<a href="/Articles/Angular.pdf" target="_blank">Angular</a>
 <br>
 <a href="/Articles/Angular Routing.pdf" target="_blank">Angular Routing</a>
 <br>
-<a href="alek772.github.io/Articles/Angular Module.pdf" target="_blank">Angular Module</a>
+<a href="/Articles/Angular Module.pdf" target="_blank">Angular Module</a>
 <br>
-<a href="alek772.github.io/Articles/Angular Errors.pdf" target="_blank">Angular Errors</a>
+<a href="/Articles/Angular Errors.pdf" target="_blank">Angular Errors</a>
 <br>
 
 
