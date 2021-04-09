@@ -661,7 +661,7 @@ Export Import mdf Database file</a>
 <br>
 <a href="alek772.github.io/Articles/Angular.pdf" target="_blank">Angular</a>
 <br>
-<a href="alek772.github.io/Articles/Angular Routing.pdf" target="_blank">Angular Routing</a>
+<a href="/Articles/Angular Routing.pdf" target="_blank">Angular Routing</a>
 <br>
 <a href="alek772.github.io/Articles/Angular Module.pdf" target="_blank">Angular Module</a>
 <br>
