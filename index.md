@@ -659,6 +659,8 @@ Export Import mdf Database file</a>
 <br>
 <a href="/Articles/Template Reference Variable.pdf" target="_blank">Template Reference Variable</a>
 <br>
+<a href="/Articles/Call child method in parent ts and html file.pdf" target="_blank">Call child method in parent ts and html file</a>
+<br>
 <a href="/Articles/Service-Component Communication.pdf" target="_blank">Service-Component Communication</a>
 <br>
 <a href="/Articles/Angular.pdf" target="_blank">Angular</a>
@@ -668,6 +670,20 @@ Export Import mdf Database file</a>
 <a href="/Articles/Angular Module.pdf" target="_blank">Angular Module</a>
 <br>
 <a href="/Articles/Angular Errors.pdf" target="_blank">Angular Errors</a>
+<br>
+
+<h3>NgRx</h3>
+<a href="/Articles/NgRx Action Reducer Selectors Effects.pdf" target="_blank">NgRx Action Reducer Selectors Effects</a>
+<br>
+<a href="/Articles/NgRx Facades.pdf" target="_blank">NgRx Action Reducer Selectors Effects</a>
+<br>
+
+<h3>TypeScript</h3>
+<a href="/Articles/Optional property syntax vs undefine.pdf" target="_blank">Optional property syntax vs undefine</a>
+<br>
+<a href="/Articles/Spread operator vs Rest operator.pdf" target="_blank">Spread operator vs Rest operator</a>
+<br>
+<a href="/Articles/Typescript Constructor Shorthand.pdf" target="_blank">Typescript Constructor Shorthand</a>
 <br>
 
 	
