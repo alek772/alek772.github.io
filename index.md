@@ -257,6 +257,39 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 </table>
 
 
+<h3>Git</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Practical Git Confident Git Through Practice.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Practical Git Confident Git Through Practice.pdf" target="_blank">Practical Git Confident Git Through Practice</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Johan Abildskov</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">November 11, 2020</td>
+  </tr>
+</table>
+
+<h3>Java Script</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/The Joy of JavaScript.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/The Joy of JavaScript.pdf" target="_blank">The Joy of JavaScript</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Luis Atencio</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 2, 2021</td>
+  </tr>
+</table>
+
+
 <h3>Unit Testing</h3>
 <table class="container-fluid">
   <tr class="row">
