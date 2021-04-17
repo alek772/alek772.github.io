@@ -271,7 +271,6 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Johan Abildskov</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">November 11, 2020</td>
   </tr>
-     </tr>
    <tr class="row">    
        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer.jpg"></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer.pdf" target="_blank">Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer</a></td>
@@ -436,7 +435,7 @@ Taborda</td>
    </tr>
    <tr class="row">    
        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions.jpg"></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Practical Git Confident Git Through Practice.pdf" target="_blank">Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions</a></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions.pdf" target="_blank">Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Oren Farhi</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 16, 2017</td>
   </tr>
