@@ -271,6 +271,13 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Johan Abildskov</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">November 11, 2020</td>
   </tr>
+     </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer.pdf" target="_blank">Beginning Git and GitHub A Comprehensive Guide to Version Control, Project Management, and Teamwork for the New Developer</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Mariot Tsitoara</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">November 30, 2019</td>
+  </tr>
 </table>
 
 <h3>Java Script</h3>
@@ -384,7 +391,55 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 26, 2020</td>
   </tr>
 
+</table>
 
+<h3>Good Software and Practice</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Seriously Good Software Code that Works, Survives, and Wins.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Seriously Good Software Code that Works, Survives, and Wins.pdf" target="_blank">Seriously Good Software Code that Works, Survives, and Wins</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Marco Faella</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 24, 2020</td>
+  </tr>
+</table>
+
+<h3>RxJs</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/RxJS in Action.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/RxJS in Action.pdf" target="_blank">RxJS in Action</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Luis Atencio, Paul P. Daniels</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 4, 2017</td>
+  </tr>
+</table>
+
+
+<h3>NgRx</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Practical Git Confident Git Through Practice.pdf" target="_blank">Reactive Programming with Angular and Ngrx Learn to Harness the Power of Reactive Programming with RxJS and Ngrx Extensions</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Oren Farhi</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 16, 2017</td>
+  </tr>
 </table>
 
 
@@ -440,7 +495,6 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Elton Stoneman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 4, 2020</td>
   </tr>
-
 
 </table>
 
@@ -719,6 +773,10 @@ Export Import mdf Database file</a>
 <a href="/Articles/Typescript Constructor Shorthand.pdf" target="_blank">Typescript Constructor Shorthand</a>
 <br>
 
+
+<h3>Git</h3>
+<a href="/Articles/Git-Cheat-Sheet.pdf" target="_blank">Git Cheat Sheet</a>
+
 	
 <h3>TSConfig</h3>
 <a href="https://www.typescriptlang.org/tsconfig" target="_blank">TSConfig Reference</a>
@@ -728,7 +786,21 @@ Export Import mdf Database file</a>
 
 
 
-
+<h3>NgRx</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/.pdf" target="_blank"></a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> </td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> </td>
+  </tr>
+</table>
 
  </body>
     
