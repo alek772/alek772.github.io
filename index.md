@@ -117,7 +117,6 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 
 
 
-
   <h3>ASP.NET Core</h3>
 <table class="container-fluid">
   <tr class="row">
@@ -131,6 +130,12 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET Core in Action.pdf" target="_blank">ASP.NET Core in Action</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Lock</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 30, 2018</td>
+  </tr>
+    <tr class="row"> 
+   <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET Core in Action Second Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET Core in Action Second Edition" target="_blank">ASP.NET Core in Action Second Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Lock</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 13, 2021</td>
   </tr>
      <tr class="row"> 
      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro ASP.NET Core MVC - 6th Edition.jpg" ></td>
@@ -342,11 +347,35 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
 Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> 2020 </td>
   </tr>
+       <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Ng-Book The Complete Guide to Angular 11.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Ng-Book The Complete Guide to Angular 11.pdf" target="_blank">Ng-Book The Complete Guide to Angular 11</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Nate Murray, Felipe Coury, Ari Lerner, and Carlos
+Taborda</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> 2020 </td>
+  </tr>
    <tr class="row">    
        <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.jpg"></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition.pdf" target="_blank">Pro Angular 9 Build Powerful and Dynamic Web Apps - 4th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Adam Freeman</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> June 12, 2020 </td>
+  </tr>
+</table>
+
+
+<h3>NgRx</h3>
+<table class="container-fluid">
+  <tr class="row">
+       <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
+    <th class="col-xs-4 col-sm-4 col-md-4 col-lg-4">Name</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Author</th>
+    <th class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Originally published</th>
+   </tr>
+   <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Modern CSS Master the Key Concepts of CSS for Modern Web Development.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Modern CSS Master the Key Concepts of CSS for Modern Web Development.pdf" target="_blank">Modern CSS Master the Key Concepts of CSS for Modern Web Development</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Joe Attardi </td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 6, 2020 </td>
   </tr>
 </table>
 
@@ -756,6 +785,10 @@ Export Import mdf Database file</a>
 <a href="/Articles/Angular Module.pdf" target="_blank">Angular Module</a>
 <br>
 <a href="/Articles/Angular Errors.pdf" target="_blank">Angular Errors</a>
+<br>
+<a href="/Articles/NgModel declarations imports exports bootstraps arrays.pdf" target="_blank">NgModel declarations imports exports bootstraps arrays</a>
+<br>
+<a href="/Articles/Loading same module on different routing paths.pdf" target="_blank">Loading same module on different routing paths</a>
 <br>
 
 <h3>NgRx</h3>
