@@ -363,7 +363,7 @@ Taborda</td>
 </table>
 
 
-<h3>NgRx</h3>
+<h3>CSS</h3>
 <table class="container-fluid">
   <tr class="row">
        <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
