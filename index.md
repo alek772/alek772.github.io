@@ -186,6 +186,12 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">August 16, 2020</td>
   </tr>
      <tr class="row"> 
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Csharp 9 with .NET 5 - 10th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Csharp 9 with .NET 5 - 10th Edition.pdf" target="_blank">Pro Csharp 9 with .NET 5 - 10th Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Troelsen and Philip Japikse</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 26, 2021</td>
+  </tr>
+     <tr class="row"> 
          <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Professional Csharp 7 and .NET Core 2.0.jpg" ></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Professional Csharp 7 and .NET Core 2.0.pdf" target="_blank">Professional C# 7 and .NET Core 2.0</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Nagel</td>
