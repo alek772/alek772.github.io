@@ -25,6 +25,9 @@ docs.microsoft.com is the home for Microsoft documentation for end users, develo
 <br>
 Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net mvc version</p>
 
+
+<a href="https://dotnet.microsoft.com/en-us/platform/support/policy/dotnet-core" target="_blank">.NET and .NET Core Support Policy</a>
+<br>
 <a href="https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet-framework" target="_blank">.Net Framework Versions</a>
 <br>
 
