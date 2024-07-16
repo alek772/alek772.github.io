@@ -140,6 +140,12 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Lock</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 13, 2021</td>
   </tr>
+    <tr class="row"> 
+   <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/ASP.NET Core in Action Third Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/ASP.NET Core in Action Third Edition.pdf" target="_blank">ASP.NET Core in Action Third Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Lock</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">July 2023 </td>
+  </tr>
      <tr class="row"> 
      <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro ASP.NET Core MVC - 6th Edition.jpg" ></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro ASP.NET Core MVC - 6th Edition.pdf" target="_blank">Pro ASP.NET Core MVC - 6th Edition</a></td>
