@@ -450,6 +450,12 @@ Taborda</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Marco Faella</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 24, 2020</td>
   </tr>
+     <tr class="row">    
+       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/  Good Code, Bad Code.jpg"></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Good Code, Bad Code.pdf" target="_blank">Good Code, Bad Code</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3"> Tom Long</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">September 7, 2021</td>
+  </tr>
 </table>
 
 <h3>RxJs</h3>
