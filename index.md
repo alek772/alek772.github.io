@@ -556,6 +556,9 @@ Taborda</td>
 <br>
 <h1>Articles</h1>
 
+<h3>SOLID</h3>
+<a href="/Articles/SOLID.pdf" target="_blank">SOLID</a>
+
 <h3>Visual Studio Code</h3>
 <a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
 
