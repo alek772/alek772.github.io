@@ -630,7 +630,16 @@ ASP.NET MVC Routing
 ASP.NET MVC Validation
 </a>
 <br>
-
+<br>
+<a href="/Articles/Microservices.pdf" target="_blank">
+ASP.NET MVC Validation
+</a>
+<br>
+<br>
+<a href="/Articles/Cartasion explosion.pdf" target="_blank">
+ASP.NET MVC Validation
+</a>
+<br>
 
 <h3>ASP.NET Core Web API</h3>
 <a href="/Articles/ASP.NET Core  Web API Return Types.pdf" target="_blank">
