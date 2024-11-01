@@ -207,10 +207,10 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 26, 2021</td>
   </tr>
      <tr class="row"> 
-         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro C#10 with .NET 6 - 11th Edition.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro C#10 with .NET 6 - 11th Edition.pdf" target="_blank">Pro C#10 with .NET 6 - 11th Edition</a></td>
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro Charp10 with .NET 6 - 11th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro Charp10 with .NET 6 - 11th Edition.pdf" target="_blank">Pro C#10 with .NET 6 - 11th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Troelsen and Philip Japikse</td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 26, 2021</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">July 30, 2022</td>
   </tr>
 </table>
 
@@ -595,7 +595,7 @@ Library Manager Libman
 <br>
 <a href="/Articles/Windows Process.pdf" target="_blank">Windows Process</a>
 <br>
-<a href="/Articles/C# Method Hiding Shadowing and Overriding.pdf" target="_blank">C# Method Hiding Shadowing and Overriding</a>
+<a href="/Articles/Charp Method Hiding Shadowing and Overriding.pdf" target="_blank">C# Method Hiding Shadowing and Overriding</a>
 <br>
 
 
