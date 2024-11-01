@@ -845,11 +845,11 @@ Export Import mdf Database file</a>
 
 
 <h3>Microservices</h3>
-<a href="Microservices.pdf" target="_blank">Microservices</a>
+<a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
 <br>
 
 <h3>JavaScript</h3>
-<a href="JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
+<a href="/Articles/JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
 <br>
 
 
