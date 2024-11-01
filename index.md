@@ -171,12 +171,18 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">May 25, 2020</td>
   </tr>
    <tr class="row">    
-       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2ol"><img width="80" height="120" src="/Books/images/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.jpg" ></td>
+    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2ol"><img width="80" height="120" src="/Books/images/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.jpg" ></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Csharp 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition.pdf" target="_blank">C# 8.0 and .NET Core 3.0 – Modern Cross-Platform Development 4th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Mark Price</td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">October 31, 2019</td>
   </tr>
-      <tr class="row"> 
+   <tr class="row"> 
+    <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Professional Csharp 7 and .NET Core 2.0.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Professional Csharp 7 and .NET Core 2.0.pdf" target="_blank">Professional C# 7 and .NET Core 2.0</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Nagel</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 21, 2018</td>
+  </tr>
+   <tr class="row"> 
       <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.jpg" ></td>
     <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Essential Angular for ASP.NET Core MVC 3 - 2th Edition.pdf" target="_blank">Essential Angular for ASP.NET Core MVC 3 - 2th Edition</a></td>
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Adam Freeman</td>
@@ -201,10 +207,10 @@ Release history Date:29 November 2018 Version:ASP.NET MVC 5.2.7 latest asp.net m
     <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 26, 2021</td>
   </tr>
      <tr class="row"> 
-         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Professional Csharp 7 and .NET Core 2.0.jpg" ></td>
-    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Professional Csharp 7 and .NET Core 2.0.pdf" target="_blank">Professional C# 7 and .NET Core 2.0</a></td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Christian Nagel</td>
-    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">March 21, 2018</td>
+         <td class="col-xs-2 col-sm-2 col-md-2 col-lg-2"><img width="80" height="120" src="/Books/images/Pro C#10 with .NET 6 - 11th Edition.jpg" ></td>
+    <td class="col-xs-4 col-sm-4 col-md-4 col-lg-4"><a href="/Books/Pro C#10 with .NET 6 - 11th Edition.pdf" target="_blank">Pro C#10 with .NET 6 - 11th Edition</a></td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">Andrew Troelsen and Philip Japikse</td>
+    <td class="col-xs-3 col-sm-3 col-md-3 col-lg-3">April 26, 2021</td>
   </tr>
 </table>
 
