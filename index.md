@@ -589,6 +589,8 @@ Library Manager Libman
 <br>
 <a href="/Articles/Windows Process.pdf" target="_blank">Windows Process</a>
 <br>
+<a href="/Articles/C# Method Hiding Shadowing and Overriding.pdf" target="_blank">C# Method Hiding Shadowing and Overriding</a>
+<br>
 
 
 <h3>ASP.NET Web API</h3>
@@ -846,7 +848,12 @@ Export Import mdf Database file</a>
 
 <h3>Microservices</h3>
 <br>
-<a href="https://www.typescriptlang.org/tsconfig" target="_blank">Microservices</a>
+<a href="Microservices.pdf" target="_blank">Microservices</a>
+<br>
+
+<h3>JavaScript</h3>
+<br>
+<a href="JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
 <br>
 
 
