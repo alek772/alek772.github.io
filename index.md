@@ -587,9 +587,6 @@ Library Manager Libman
 <br>
 
 
-
-
-
 <h3>C#</h3>
 <a href="/Articles/Csharp.pdf" target="_blank">C#</a>
 <br>
@@ -677,10 +674,6 @@ Repositoty Service Pattern
 <br>
 
 
-
-
-
-
 <h3>ASP.NET Core MVC</h3>
 <a href="/Articles/ASP.NET Core MVC Binding Sources.pdf" target="_blank">
 ASP.NET Core MVC Binding Sources</a>
@@ -757,7 +750,6 @@ Entity Framework Core EntryState
 Debug when out of scope
 </a>
 <br>
-
 
 
 <h3>SQL</h3>
@@ -853,12 +845,10 @@ Export Import mdf Database file</a>
 
 
 <h3>Microservices</h3>
-<br>
 <a href="Microservices.pdf" target="_blank">Microservices</a>
 <br>
 
 <h3>JavaScript</h3>
-<br>
 <a href="JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
 <br>
 
