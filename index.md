@@ -552,10 +552,6 @@ Taborda</td>
   </tr>
 
 </table>
-
-
-
-
 </div>
 
 <br>
@@ -565,27 +561,19 @@ Taborda</td>
 <h3>SOLID</h3>
 <a href="/Articles/SOLID.pdf" target="_blank">SOLID</a>
 
-<h3>Visual Studio Code</h3>
-<a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
-
-<h3>Common</h3>
-<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
-Async vs Sync Api
-</a>
+<h3>Security</h3>
+<a href="/Articles/Secure JWT Storage Best Practices.pdf" target="_blank">Secure JWT Storage Best Practices</a>
 <br>
-<a href="/Articles/IEnumerable and IEnumerator.pdf" target="_blank">
-IEnumerable and IEnumerator
-</a>
-<br>
-<a href="/Articles/Json Serilizer.pdf" target="_blank">
-Json Serilizer
-</a>
-<br>
-<a href="/Articles/Library Manager Libman.pdf" target="_blank">
-Library Manager Libman
-</a>
+<a href="/Articles/Best Practices for JWT Authentication in Angular Apps.pdf" target="_blank">Best Practices for JWT Authentication in Angular Apps</a>
 <br>
 
+<h3>Microservices</h3>
+<a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
+<br>
+
+<h3>JavaScript</h3>
+<a href="/Articles/JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
+<br>
 
 <h3>C#</h3>
 <a href="/Articles/Csharp.pdf" target="_blank">C#</a>
@@ -843,17 +831,29 @@ Export Import mdf Database file</a>
 <a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html" target="_blank">TSConfig Options</a>
 <br>
 
-
-<h3>Microservices</h3>
-<a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
+<h3>Common</h3>
+<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
+Async vs Sync Api
+</a>
+<br>
+<a href="/Articles/IEnumerable and IEnumerator.pdf" target="_blank">
+IEnumerable and IEnumerator
+</a>
+<br>
+<a href="/Articles/Json Serilizer.pdf" target="_blank">
+Json Serilizer
+</a>
+<br>
+<a href="/Articles/Library Manager Libman.pdf" target="_blank">
+Library Manager Libman
+</a>
 <br>
 
-<h3>JavaScript</h3>
-<a href="/Articles/JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
-<br>
+<h3>Visual Studio Code</h3>
+<a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
 
 
-<h3>NgRx</h3>
+<h3>Test</h3>
 <table class="container-fluid">
   <tr class="row">
        <th class="col-xs-2 col-sm-2 col-md-2 col-lg-2">Image</th>
