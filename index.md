@@ -566,6 +566,11 @@ Taborda</td>
 <br>
 <a href="/Articles/Best Practices for JWT Authentication in Angular Apps.pdf" target="_blank">Best Practices for JWT Authentication in Angular Apps</a>
 <br>
+<a href="/Articles/Cross Site Scripting.pdf" target="_blank">Cross Site Scripting</a>
+<br>
+<a href="/Articles/Cross Site Request Forgery.pdf" target="_blank">Cross Site Request Forgery</a>
+<br>
+
 
 <h3>Microservices</h3>
 <a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
@@ -583,6 +588,23 @@ Taborda</td>
 <a href="/Articles/Charp Method Hiding Shadowing and Overriding.pdf" target="_blank">C# Method Hiding Shadowing and Overriding</a>
 <br>
 
+<h3>Entity Framework Core</h3>
+<a href="/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
+ASP.NET Core Entity Framework Core
+</a>
+<br>
+<a href="/Articles/EF Core Map Class to Table.pdf" target="_blank">
+EF Core Map Class to Table
+</a>
+<br>
+<a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">
+Entity Framework Core EntryState
+</a>
+<br>
+<a href="/Articles/HasPrincipalKey.pdf" target="_blank">
+HasPrincipalKey
+</a>
+<br>
 
 <h3>ASP.NET Web API</h3>
 <a href="/Articles/ASP.NET Web API Parameter Binding.pdf" target="_blank">
@@ -723,15 +745,6 @@ asp.net core errors
 </a>
 <br>
 
-<h3>Entity Framework Core</h3>
-<a href="/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
-ASP.NET Core Entity Framework Core
-</a>
-<br>
-<a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">
-Entity Framework Core EntryState
-</a>
-<br>
 
 <h3>Debug</h3>
 <a href="/Articles/Debug when out of scope.pdf" target="_blank">
